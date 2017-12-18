@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/medicine/app/AddMedicine.php</file>
+            <file>file:/C:/wamp64/www/medicine/resources/views/index/welcome.blade.php</file>
+            <file>file:/C:/wamp64/www/medicine/resources/views/admin/index.blade.php</file>
+            <file>file:/C:/wamp64/www/medicine/app/User.php</file>
+            <file>file:/C:/wamp64/www/medicine/app/AddSyndrome.php</file>
+            <file>file:/C:/wamp64/www/medicine/app/Http/Controllers/AddSyndromeController.php</file>
+            <file>file:/C:/wamp64/www/medicine/app/Medicine.php</file>
+            <file>file:/C:/wamp64/www/medicine/app/Http/Controllers/AddMedicineController.php</file>
+            <file>file:/C:/wamp64/www/medicine/resources/views/medicine/index.blade.php</file>
+            <file>file:/C:/wamp64/www/medicine/resources/views/partials/_nav.blade.php</file>
+            <file>file:/C:/wamp64/www/medicine/resources/views/add_medicine/index.blade.php</file>
+            <file>file:/C:/wamp64/www/medicine/app/Http/routes.php</file>
+            <file>file:/C:/wamp64/www/medicine/app/Http/Controllers/MedicineController.php</file>
+            <file>file:/C:/wamp64/www/medicine/resources/views/add_syndrome/index.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
